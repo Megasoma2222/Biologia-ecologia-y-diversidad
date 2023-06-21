@@ -62,6 +62,8 @@ p + stat_compare_means(method = "t.test")
  
 RESULTADO:
 
+![humedad](https://github.com/Megasoma2222/Biologia-ecologia-y-diversidad/assets/137216764/0211f591-8be8-40bb-918b-f073e93467c5)
 
+![temperatura](https://github.com/Megasoma2222/Biologia-ecologia-y-diversidad/assets/137216764/1cb232cb-e107-4d08-99c0-0a04e0b5a493)
 
 
